@@ -1,4 +1,4 @@
-# AI Employee v0.1 - Bronze Tier
+# AI Employee v0.1 - Silver Tier
 
 > **Tagline:** Your life and business on autopilot. Local-first, agent-driven, human-in-the-loop.
 
