@@ -1,0 +1,60 @@
+# Sensitive Files - NEVER commit these
+.env
+credentials.json
+token.json
+*.key
+*.pem
+passwords.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Obsidian
+.obsidian/
+*.log
+
+# Logs
+Logs/
+*.log
+
+# Session files
+.linkedin_session/
+*.session
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Qwen
+.qwen/
+
+# Temporary files
+$null
+*.tmp
+*.bak
+
+# Processed data (keep raw, exclude processed)
+*_processed.json
+
+# Debug files
+debug_snapshot.md
+compose_check.md

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "skills": {
+    "browsing-with-playwright": {
+      "source": "bilalmk/todo_correct",
+      "sourceType": "github",
+      "computedHash": "f73daf75e38650c202e61f652a26578db157f8423e8bcf283bcd93b441641461"
+    },
+    "email-management": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "silver-tier-skill",
+      "description": "Email management via Gmail MCP server - send, draft, search emails"
+    },
+    "whatsapp-monitor": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "silver-tier-skill",
+      "description": "WhatsApp monitoring via Playwright - detect keywords, create action files"
+    },
+    "linkedin-posting": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "silver-tier-skill",
+      "description": "LinkedIn automation for business content posting with approval workflow"
+    },
+    "approval-workflow": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "silver-tier-skill",
+      "description": "Human-in-the-Loop (HITL) approval workflow for sensitive actions"
+    },
+    "plan-generator": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "silver-tier-skill",
+      "description": "Automatic plan generation with structured Plan.md files"
+    },
+    "file-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "silver-tier-skill",
+      "description": "File system watcher for monitoring drop folders using watchdog"
+    },
+    "scheduler": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "silver-tier-skill",
+      "description": "Task scheduler for cron (Linux/Mac) and Task Scheduler (Windows)"
+    }
+  },
+  "silverTierSkills": [
+    "email-management",
+    "whatsapp-monitor",
+    "linkedin-posting",
+    "approval-workflow",
+    "plan-generator",
+    "file-watcher",
+    "scheduler"
+  ],
+  "lastUpdated": "2026-02-27"
+}
